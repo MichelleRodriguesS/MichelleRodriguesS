@@ -2,7 +2,7 @@
     <h2>✨ Sobre Mim</h2>
     <ul>
         <li>🎓 <strong>Estudante de Tecnologia da Informação</strong> e atualmente estagiária, desenvolvendo projetos com foco em Java.</li>
-        <li>👩‍👧‍👦 Mãe dedicada de três filhos incríveis: Manuella, Paolla e Matteo.</li>
+        <li>👩‍👧‍👦 <strong>Mãe dedicada de três filhos incríveis:</strong> Manuella, Paolla e Matteo.</li>
         <li>🌟 <strong>Sonhadora e resiliente:</strong> acredito no poder de superar desafios e transformar sonhos em realidade.</li>
         <li>🌎 Apaixonada por viagens e em busca da fluência no inglês para explorar novas culturas.</li>
     </ul>
