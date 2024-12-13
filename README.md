@@ -15,7 +15,8 @@
         <li><strong>Banco de Dados:</strong> MySQL</li>
         <li><strong>Versionamento:</strong> Git, GitHub</li>
         <li><strong>Testes:</strong> JUnit, Mockito</li>
-        <li><strong>Outras Skills:</strong> Maven, Gradle, </li>
+        <li><strong>Ecossistemas de computação em nuvem:</strong> Amazon Web Services (AWS),Google Cloud Platform (GCP) </li>
+        <li><strong>Outras Skills:</strong> Maven, Gradle </li>
     </ul>
 </section>
           
