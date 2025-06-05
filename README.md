@@ -1,7 +1,7 @@
 <section>
     <h2>✨ Sobre Mim</h2>
     <ul>
-        <li>🎓 <strong>Estudante de Tecnologia da Informação</strong> e atualmente estagiária, desenvolvendo projetos com foco em Java.</li>
+        <li>🎓 <strong>Estudante de Tecnologia da Informação</strong> Desenvolvedora Junuior, desenvolvendo projetos com foco em Java.</li>
         <li>👩‍👧‍👦 <strong>Mãe dedicada de três filhos incríveis:</strong> Manuella, Paolla e Matteo.</li>
         <li>🌟 <strong>Sonhadora e resiliente:</strong> acredito no poder de superar desafios e transformar sonhos em realidade.</li>
         <li>🌎 <strong> Tenho o sonho de viajar o mundo:</strong> E, para isso busco a fluência na lingua inglesa para explorar novas culturas.</li>
